@@ -1,7 +1,5 @@
-# ai-design-team
-A multi-role AI design team skill for research, planning, scripting, design, and content production.
 # 🤖 設計實驗室 ｜ AI 設計部門 Skill
-
+A multi-role AI design team skill for research, planning, scripting, design, and content production.
 > 由設計實驗室 @pb_design_lab 專為內容創作者打造的 Claude AI 虛擬團隊，10 個專業角色分工協作，涵蓋從業配分析、內容企劃、腳本撰寫到社群發布的完整製作流程。
 
 ---
